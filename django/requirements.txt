@@ -20,7 +20,7 @@ gunicorn==19.9.0
 idna==2.7                 # via requests
 markdown==2.6.11
 oauthlib==2.1.0           # via requests-oauthlib, social-auth-core
-pillow==5.2.0
+pillow==8.1.1
 protobuf==3.6.1           # via google-api-core, googleapis-common-protos
 psycopg2-binary==2.7.5
 pyasn1==0.4.4             # via pyasn1-modules, rsa
