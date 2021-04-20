@@ -11,7 +11,7 @@ faker==0.8.17
 more-itertools==4.2.0     # via pytest
 pluggy==0.6.0             # via pytest
 prequ==1.4.2
-py==1.5.4                 # via pytest
+py==1.10.0                 # via pytest
 pytest==3.6.3
 pytest-cov==2.5.1
 pytest-django==3.3.2
