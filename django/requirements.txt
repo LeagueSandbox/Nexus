@@ -34,7 +34,7 @@ rsa==3.4.2                # via google-auth
 six==1.11.0               # via google-api-core, google-auth, google-resumable-media, protobuf, social-auth-app-django, social-auth-core
 social-auth-app-django==2.1.0
 social-auth-core==1.7.0   # via social-auth-app-django
-urllib3==1.23             # via requests
+urllib3==1.26.5             # via requests
 whitenoise==3.3.1
 
 # The following packages are considered to be unsafe in a requirements file:
